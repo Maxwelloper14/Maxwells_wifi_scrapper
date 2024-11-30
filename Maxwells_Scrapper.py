@@ -17,5 +17,3 @@ def main():
     scan_wifi_networks()
     show_connected_devices()
 
-if name == "main":
-    main()
